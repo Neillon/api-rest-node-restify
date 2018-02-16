@@ -1,5 +1,5 @@
 {
-  "name": "todoapp-api",
+  "name": "api-rest-node-restify",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
